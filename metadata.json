@@ -1,0 +1,6 @@
+{
+  "name": "TestMaster Pro - Onlayn Test Platformasi",
+  "description": "500+ bir vaqtda foydalanuvchi quvvatiga ega, Telegram tasdiqlovli, Word import va server-side hisob-kitobli professional onlayn test platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
